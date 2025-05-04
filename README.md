@@ -14,7 +14,7 @@
     - There is a 5% chance of hero or enemy attack missing
 
 ## Languages used:
-- Python
+- Python (OOP, classes, objects)
 
 ## Code files
 - Main game (evil_wizard_game.py)
