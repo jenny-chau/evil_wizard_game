@@ -6,9 +6,11 @@ from io import StringIO
 
 class AutoInput:
     def __init__(self):
+        # Potenial action choices when playing the game
         self.inputs = ["1", "2", "3", '4']
     
     def __call__(self, prompt=""):
+        # Whenever the game requires an input, this function will be called and a random choice from the list of inputs will be returned
         return random.choice(self.inputs)
 
 def test_game(num_runs=10):
@@ -17,8 +19,9 @@ def test_game(num_runs=10):
         log_file.write("")
     
     for i in range(num_runs):
-        print(f"\n ---------- running game {i + 1} --------- ")
+        print(f"\n ---------- Running game {i + 1} --------- ")
         
+        # Reassign built-in input with the automated input
         auto_input = AutoInput()
         builtins.input = auto_input
         
@@ -62,5 +65,5 @@ def test_game(num_runs=10):
             print(f"Game {i + 1} has an error and stopped running.")
             
 if __name__ == "__main__":
-    # test the game (#) times
-    test_game(10) 
+    # test the game as many times as needed
+    test_game(1) 

@@ -17,8 +17,10 @@ class Paladin(Character):
         super().__init__(name, health=130, attack_power=30)
         
     def special_ability(self, opponent):
+        # Used to check which abilities can be executed based on the amount of mana available
         ability_choices = []
         
+        # Display special abilities and adds the special abilities that can be played (enough mana) to the ability_choices list        
         ability_choices.extend(self.get_display_special_abilities(self.special_abilities))
 
         while True:

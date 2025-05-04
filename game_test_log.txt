@@ -4,942 +4,7 @@
 
 This is how the game works:
 * First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now a Paladin!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 130/130, Average Attack Power: 30, Mana: 100
- -> 3's Stats - Health: 130/130, Average Attack Power: 30, Mana: 100
-
-Special Abilities: (Available Mana = 100)
-1. Holy Strike (attack buff +20%) Cost 20 Mana
-2. Divine Mana (mana recovery rate +5 mana/round) Cost 15 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 130/130, Average Attack Power: 30, Mana: 100
- -> 3's Stats - Health: 130/130, Average Attack Power: 30, Mana: 100
- -> 3 attacks The Dark Wizard for 31 damage! The Dark Wizard's health went from 150 to 119.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 124
- -> The Dark Wizard attacks 3 for 10 damage! 3's health went from 130 to 120.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 120/130, Average Attack Power: 30, Mana: 100
- -> 3's Stats - Health: 120/130, Average Attack Power: 30, Mana: 100
- -> 3 attacks The Dark Wizard for 32 damage! The Dark Wizard's health went from 124 to 92.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 97
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 147.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 32 damage! The Dark Wizard's health went from 147 to 115.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 120
- -> The Dark Wizard attacks 3 for 20 damage! 3's health went from 120 to 100.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Holy Strike (attack buff +20%) Cost 20 Mana
-2. Divine Mana (mana recovery rate +5 mana/round) Cost 15 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 healed 10 points! Health = 110
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 125
- -> The Dark Wizard attacks 3 for 16 damage! 3's health went from 110 to 94.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 34 damage! The Dark Wizard's health went from 125 to 91.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 5 points! Health = 96
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 94 to 49.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 35 damage! The Dark Wizard's health went from 96 to 61.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 66
- -> The Dark Wizard attacks 3 for 20 damage! 3's health went from 49 to 29.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 35 damage! The Dark Wizard's health went from 66 to 31.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 36
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 29 to 0.
-
-<-------End Battle------->
-3 has been defeated. Better luck next time!
-
-
- ---------- Running game 2 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now an Archer!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 100/100, Average Attack Power: 20, Mana: 100
- -> 3's Stats - Health: 100/100, Average Attack Power: 20, Mana: 100
- -> 3 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 150 to 126.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 131
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 100 to 55.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 55/100, Average Attack Power: 20, Mana: 100
- -> 3's Stats - Health: 55/100, Average Attack Power: 20, Mana: 100
-
-Special Abilities: (Available Mana = 100)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> 3 found a box to hide in!
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 136
- -> The Dark Wizard attempts to attack, but 3 evades the attack!
-
------- Your Turn ------
- -> 3's Mana replenished by 5. Mana = 75
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 136 to 112.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 117
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 150.
-
------- Your Turn ------
- -> 3's Mana replenished by 5. Mana = 80
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 17 damage! The Dark Wizard's health went from 150 to 133.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 20
- -> The Dark Wizard healed 5 points! Health = 138
- -> The Dark Wizard attacks 3 for 16 damage! 3's health went from 55 to 39.
-
------- Your Turn ------
- -> 3's Mana replenished by 5. Mana = 85
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 85)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 healed 10 points! Health = 49
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 35
- -> The Dark Wizard healed 5 points! Health = 143
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 49 to 4.
-
------- Your Turn ------
- -> 3's Mana replenished by 5. Mana = 90
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 143 to 119.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 15
- -> The Dark Wizard healed 5 points! Health = 124
- -> The Dark Wizard attacks 3 for 19 damage! 3's health went from 4 to 0.
-
-<-------End Battle------->
-3 has been defeated. Better luck next time!
-
-
- ---------- Running game 3 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now a Mage!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> Many copies of 1 are running around now, making The Dark Wizard confused!
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 0 points! Health = 150
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attempts to attack, but 1 evades the attack!
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 75
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 75)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> The Dark Wizard is hyptonized and its attack fell 15% to 13.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 0 points! Health = 150
- -> The Dark Wizard attacks 1 for 8 damage! 1's health went from 100 to 92.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 60
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-ERROR: Invalid input. Please choose another action to take.
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1 attacks The Dark Wizard for 38 damage! The Dark Wizard's health went from 150 to 112.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 117
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 150.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 65
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1 attacks The Dark Wizard for 35 damage! The Dark Wizard's health went from 150 to 115.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 20
- -> The Dark Wizard healed 5 points! Health = 120
- -> The Dark Wizard attacks 1 for 12 damage! 1's health went from 92 to 80.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 70
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 70)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1 attacks The Dark Wizard for 38 damage! The Dark Wizard's health went from 120 to 82.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 35
- -> The Dark Wizard healed 5 points! Health = 87
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 1 for 39 damage! 1's health went from 80 to 41.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 75
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1 healed 10 points! Health = 51
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 15
- -> The Dark Wizard healed 5 points! Health = 92
- -> The Dark Wizard attacks 1 for 14 damage! 1's health went from 51 to 37.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 80
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1's Stats - Health: 37/100, Average Attack Power: 35, Mana: 80
- -> 1 attacks The Dark Wizard for 38 damage! The Dark Wizard's health went from 92 to 54.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 59
- -> The Dark Wizard attacks 1 for 8 damage! 1's health went from 37 to 29.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 85
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1 attacks The Dark Wizard for 34 damage! The Dark Wizard's health went from 59 to 25.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 30
- -> The Dark Wizard attacks 1 for 18 damage! 1's health went from 29 to 11.
-
------- Your Turn ------
- -> 1's Mana replenished by 5. Mana = 90
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 1's Stats - Health: 11/100, Average Attack Power: 35, Mana: 90
- -> 1 healed 10 points! Health = 21
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 5 points! Health = 35
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 1 for 39 damage! 1's health went from 21 to 0.
-
-<-------End Battle------->
-1 has been defeated. Better luck next time!
-
-
- ---------- Running game 4 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now a Mage!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 30 damage! The Dark Wizard's health went from 150 to 120.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 125
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 45 damage! 2's health went from 100 to 55.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 65
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 130
- -> The Dark Wizard attacks 2 for 10 damage! 2's health went from 65 to 55.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 55/100, Average Attack Power: 35, Mana: 100
- -> 2 attacks The Dark Wizard for 36 damage! The Dark Wizard's health went from 130 to 94.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 99
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 45 damage! 2's health went from 55 to 10.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 10/100, Average Attack Power: 35, Mana: 100
- -> 2 attacks The Dark Wizard for 34 damage! The Dark Wizard's health went from 99 to 65.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 70
- -> The Dark Wizard attacks 2 for 10 damage! 2's health went from 10 to 0.
-
-<-------End Battle------->
-2 has been defeated. Better luck next time!
-
-
- ---------- Running game 5 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now an Archer!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 4 attacks The Dark Wizard for 23 damage! The Dark Wizard's health went from 150 to 127.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 132
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 4 for 45 damage! 4's health went from 100 to 55.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 4 healed 10 points! Health = 65
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 137
- -> The Dark Wizard attacks 4 for 18 damage! 4's health went from 65 to 47.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 4's Stats - Health: 47/100, Average Attack Power: 20, Mana: 100
- -> 4 attacks The Dark Wizard for 19 damage! The Dark Wizard's health went from 137 to 118.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 123
- -> The Dark Wizard attacks 4 for 16 damage! 4's health went from 47 to 31.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 4's Stats - Health: 31/100, Average Attack Power: 20, Mana: 100
-
-Special Abilities: (Available Mana = 100)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
- -> With a sudden burst of energy, 4 inflicts double damage!
- -> 4 attacks The Dark Wizard for 40 damage! The Dark Wizard's health went from 123 to 83.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 5 points! Health = 88
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 4 for 45 damage! 4's health went from 31 to 0.
-
-<-------End Battle------->
-4 has been defeated. Better luck next time!
-
-
- ---------- Running game 6 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now a Paladin!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 26 damage! The Dark Wizard's health went from 150 to 124.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 129
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 45 damage! 2's health went from 130 to 85.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 25 damage! The Dark Wizard's health went from 129 to 104.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 109
- -> The Dark Wizard attacks 2 for 16 damage! 2's health went from 85 to 69.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 69/130, Average Attack Power: 30, Mana: 100
- -> 2 attacks The Dark Wizard for 30 damage! The Dark Wizard's health went from 109 to 79.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 84
- -> The Dark Wizard attacks 2 for 16 damage! 2's health went from 69 to 53.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attack missed!
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 5 points! Health = 89
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 139.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Holy Strike (attack buff +20%) Cost 20 Mana
-2. Divine Mana (mana recovery rate +5 mana/round) Cost 15 Mana
-3. Back
- -> Not enough mana or invalid input. Please try again.
- -> 2 found a bottle of cloudy, thick blue-green liquid in the corner and decided to take a sip. Feeling extra energized, 2's Mana recovery rate is now 10.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 144
- -> The Dark Wizard attacks 2 for 18 damage! 2's health went from 53 to 35.
-
------- Your Turn ------
- -> 2's Mana replenished by 10. Mana = 95
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 35/130, Average Attack Power: 30, Mana: 95
- -> 2's Stats - Health: 35/130, Average Attack Power: 30, Mana: 95
- -> 2 healed 10 points! Health = 45
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 149
- -> The Dark Wizard used a special ability, increasing its Mana significantly (+30 max increase up to its max Mana). Mana = 10.
-
------- Your Turn ------
- -> 2's Mana replenished to max. Mana = 100
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 45/130, Average Attack Power: 30, Mana: 100
- -> 2 attacks The Dark Wizard for 30 damage! The Dark Wizard's health went from 149 to 119.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 124
- -> The Dark Wizard attacks 2 for 12 damage! 2's health went from 45 to 33.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 28 damage! The Dark Wizard's health went from 124 to 96.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 101
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 150.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Holy Strike (attack buff +20%) Cost 20 Mana
-2. Divine Mana (mana recovery rate +5 mana/round) Cost 15 Mana
-3. Back
- -> Buff activated! Average attack power is now 36.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 15
- -> The Dark Wizard healed 0 points! Health = 150
- -> The Dark Wizard attacks 2 for 14 damage! 2's health went from 33 to 19.
-
------- Your Turn ------
- -> 2's Mana replenished by 10. Mana = 90
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 34 damage! The Dark Wizard's health went from 150 to 116.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 121
- -> The Dark Wizard attacks 2 for 11 damage! 2's health went from 19 to 8.
-
------- Your Turn ------
- -> 2's Mana replenished to max. Mana = 100
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Holy Strike (attack buff +20%) Cost 20 Mana
-2. Divine Mana (mana recovery rate +5 mana/round) Cost 15 Mana
-3. Back
- -> Not enough mana or invalid input. Please try again.
- -> 2 found a bottle of cloudy, thick blue-green liquid in the corner and decided to take a sip. Feeling extra energized, 2's Mana recovery rate is now 15.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 126
- -> The Dark Wizard attacks 2 for 14 damage! 2's health went from 8 to 0.
-
-<-------End Battle------->
-2 has been defeated. Better luck next time!
-
-
- ---------- Running game 7 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
+* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade). Buffs are permanent.
 * You will battle against the evil wizard who also has mana and special abilities.
 * Mana replenishes a small amount at the start of each round, so use it wisely!
 * Normal attacks range +/-5 the attack power, with a 5% change of missing.
@@ -975,236 +40,6 @@ Actions:
 2. Use Special Ability
 3. Heal
 4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Gym Rat (attack buff +20%) Cost 20 Mana
-2. Enraged (double attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 150 to 126.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 131
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 45 damage! 2's health went from 140 to 95.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 95/140, Average Attack Power: 25, Mana: 100
- -> 2's Stats - Health: 95/140, Average Attack Power: 25, Mana: 100
- -> 2 attacks The Dark Wizard for 29 damage! The Dark Wizard's health went from 131 to 102.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 107
- -> The Dark Wizard attacks 2 for 12 damage! 2's health went from 95 to 83.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 107 to 83.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 88
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 138.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 93
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 20
- -> The Dark Wizard healed 5 points! Health = 143
- -> The Dark Wizard attacks 2 for 18 damage! 2's health went from 93 to 75.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 85
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 35
- -> The Dark Wizard healed 5 points! Health = 148
- -> The Dark Wizard attacks 2 for 17 damage! 2's health went from 85 to 68.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 68/140, Average Attack Power: 25, Mana: 100
- -> 2's Stats - Health: 68/140, Average Attack Power: 25, Mana: 100
- -> 2 healed 10 points! Health = 78
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 2 points! Health = 150
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 45 damage! 2's health went from 78 to 33.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 33/140, Average Attack Power: 25, Mana: 100
-
-Special Abilities: (Available Mana = 100)
-1. Gym Rat (attack buff +20%) Cost 20 Mana
-2. Enraged (double attack) Cost 30 Mana
-3. Back
- -> After an extensive gym session, 2 is now extra buff, increasing the average attack power to 30!
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 0 points! Health = 150
- -> The Dark Wizard attacks 2 for 13 damage! 2's health went from 33 to 20.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 85
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 30
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 0 points! Health = 150
- -> The Dark Wizard attacks 2 for 11 damage! 2's health went from 30 to 19.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 90
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 29
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 0 points! Health = 150
- -> The Dark Wizard attacks 2 for 11 damage! 2's health went from 29 to 18.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 95
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 95)
-1. Gym Rat (attack buff +20%) Cost 20 Mana
-2. Enraged (double attack) Cost 30 Mana
-3. Back
- -> Blinded by rage, 2 inflicts double damage!
- -> 2 attacks The Dark Wizard for 60 damage! The Dark Wizard's health went from 150 to 90.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 95
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 145.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 70
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 70)
-1. Gym Rat (attack buff +20%) Cost 20 Mana
-2. Enraged (double attack) Cost 30 Mana
-3. Back
- -> Not enough mana or invalid input. Please try again.
- -> Blinded by rage, 2 inflicts double damage!
- -> 2 attacks The Dark Wizard for 60 damage! The Dark Wizard's health went from 145 to 85.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 90
- -> The Dark Wizard attacks 2 for 20 damage! 2's health went from 18 to 0.
-
-<-------End Battle------->
-2 has been defeated. Better luck next time!
-
-
- ---------- Running game 8 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now a Paladin!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
 ERROR: Invalid input. Please choose another action to take.
 
 Actions:
@@ -1219,629 +54,226 @@ Actions:
 2. Use Special Ability
 3. Heal
 4. View Stats
- -> 3 attacks The Dark Wizard for 26 damage! The Dark Wizard's health went from 150 to 124.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 129
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 130 to 85.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 85/130, Average Attack Power: 30, Mana: 100
- -> 3's Stats - Health: 85/130, Average Attack Power: 30, Mana: 100
- -> 3's Stats - Health: 85/130, Average Attack Power: 30, Mana: 100
- -> 3 attacks The Dark Wizard for 29 damage! The Dark Wizard's health went from 129 to 100.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 105
- -> The Dark Wizard attacks 3 for 17 damage! 3's health went from 85 to 68.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 healed 10 points! Health = 78
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 110
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 78 to 33.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3 attacks The Dark Wizard for 31 damage! The Dark Wizard's health went from 110 to 79.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 84
- -> The Dark Wizard attacks 3 for 19 damage! 3's health went from 33 to 14.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 3's Stats - Health: 14/130, Average Attack Power: 30, Mana: 100
- -> 3's Stats - Health: 14/130, Average Attack Power: 30, Mana: 100
 
 Special Abilities: (Available Mana = 100)
-1. Holy Strike (attack buff +20%) Cost 20 Mana
-2. Divine Mana (mana recovery rate +5 mana/round) Cost 15 Mana
+1. Gym Rat (attack buff +20%) Cost 20 Mana
+2. Enraged (double attack) Cost 30 Mana
 3. Back
- -> Not enough mana or invalid input. Please try again.
- -> 3 found a bottle of cloudy, thick blue-green liquid in the corner and decided to take a sip. Feeling extra energized, 3's Mana recovery rate is now 10.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 89
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 14 to 0.
-
-<-------End Battle------->
-3 has been defeated. Better luck next time!
-
-
- ---------- Running game 9 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now a Mage!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> The Dark Wizard is hyptonized and its attack fell 15% to 13.
+ -> After an extensive gym session, 3 is now extra buff, increasing the average attack power to 30!
 
 ------ The Dark Wizard Turn ------
  -> The Dark Wizard healed 0 points! Health = 150
  -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 39 damage! 2's health went from 100 to 61.
+ -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 140 to 95.
 
 ------ Your Turn ------
- -> 2's Mana replenished by 5. Mana = 85
+ -> 3's Mana replenished by 5. Mana = 85
 
 Actions:
 1. Attack
 2. Use Special Ability
 3. Heal
 4. View Stats
- -> 2 attacks The Dark Wizard for 33 damage! The Dark Wizard's health went from 150 to 117.
+ -> 3 attacks The Dark Wizard for 30 damage! The Dark Wizard's health went from 150 to 120.
 
 ------ The Dark Wizard Turn ------
  -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 122
- -> The Dark Wizard attacks 2 for 14 damage! 2's health went from 61 to 47.
+ -> The Dark Wizard healed 5 points! Health = 125
+ -> The Dark Wizard attacks 3 for 17 damage! 3's health went from 95 to 78.
 
 ------ Your Turn ------
- -> 2's Mana replenished by 5. Mana = 90
+ -> 3's Mana replenished by 5. Mana = 90
 
 Actions:
 1. Attack
 2. Use Special Ability
 3. Heal
 4. View Stats
-
-Special Abilities: (Available Mana = 90)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 90)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> The Dark Wizard is hyptonized and its attack fell 15% to 11.
+ -> 3 attacks The Dark Wizard for 30 damage! The Dark Wizard's health went from 125 to 95.
 
 ------ The Dark Wizard Turn ------
  -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 127
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 33 damage! 2's health went from 47 to 14.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 75
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 40 damage! The Dark Wizard's health went from 127 to 87.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 92
- -> The Dark Wizard attacks 2 for 7 damage! 2's health went from 14 to 7.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 80
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 80)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> The Dark Wizard is hyptonized and its attack fell 15% to 9.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 97
- -> The Dark Wizard used a special ability, increasing its Mana significantly (+30 max increase up to its max Mana). Mana = 10.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 65
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 37 damage! The Dark Wizard's health went from 97 to 60.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 65
- -> The Dark Wizard attacks 2 for 4 damage! 2's health went from 7 to 3.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 70
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 70)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> Not enough mana or invalid input. Please try again.
- -> The Dark Wizard is hyptonized and its attack fell 15% to 8.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 70
- -> The Dark Wizard used a special ability, increasing its Mana significantly (+30 max increase up to its max Mana). Mana = 10.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 55
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 55)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> Many copies of 2 are running around now, making The Dark Wizard confused!
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 75
- -> The Dark Wizard attempts to attack, but 2 evades the attack!
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 30
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 13
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 80
- -> The Dark Wizard used a special ability, increasing its Mana significantly (+30 max increase up to its max Mana). Mana = 10.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 35
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 13/100, Average Attack Power: 35, Mana: 35
- -> 2 healed 10 points! Health = 23
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 85
- -> The Dark Wizard attacks 2 for 4 damage! 2's health went from 23 to 19.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 40
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 33 damage! The Dark Wizard's health went from 85 to 52.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 57
- -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 107.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 45
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 45)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> The Dark Wizard is hyptonized and its attack fell 15% to 7.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 15
- -> The Dark Wizard healed 5 points! Health = 112
- -> The Dark Wizard attacks 2 for 5 damage! 2's health went from 19 to 14.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 30
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 30)
-1. Hypnosis (enemy damage -15%) Cost 20 Mana
-2. Self-Duplicate (evades next attack) Cost 30 Mana
-3. Back
- -> The Dark Wizard is hyptonized and its attack fell 15% to 6.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 117
- -> The Dark Wizard attacks 2 for 4 damage! 2's health went from 14 to 10.
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 15
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 15)
-1. Hypnosis (enemy damage -15%) !! NOT ENOUGH MANA !!
-2. Self-Duplicate (evades next attack) !! NOT ENOUGH MANA !!
-3. Back
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
- -> Not enough mana or invalid input. Please try again.
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 34 damage! The Dark Wizard's health went from 117 to 83.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 45
- -> The Dark Wizard healed 5 points! Health = 88
- -> The Dark Wizard attacks 2 for 10 damage! 2's health went from 10 to 0.
-
-<-------End Battle------->
-2 has been defeated. Better luck next time!
-
-
- ---------- Running game 10 --------- 
----- Welcome to the Evil Wizard Game! ----
-
-This is how the game works:
-* First, You will choose a character class to play as (Warrior, Mage, Archer, or Paladin).
-* Each character has their own attack power and health. They also each have their own special abilities that use mana (such as buffs, double damage, evade).
-* You will battle against the evil wizard who also has mana and special abilities.
-* Mana replenishes a small amount at the start of each round, so use it wisely!
-* Normal attacks range +/-5 the attack power, with a 5% change of missing.
-
-Each round:
-Player's turn:
-    Choose an action (attack, special ability, heal 10 health). You may also view your stats at this time.
-Enemy's turn:
-    Heals 5 health until max, attacks or uses a special ability.
-
-Game end:
-Either the player or the wizard reaches a health of 0 and is defeated.
-
-Best of luck!
-
-          
-
-Choose your character class:
-1. Warrior
-2. Mage
-3. Archer
-4. Paladin
-5. Show character special abilities
-You are now an Archer!!
-
-<----Commence battle against the Evil Wizard---->
-
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 100/100, Average Attack Power: 20, Mana: 100
-
-Special Abilities: (Available Mana = 100)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 100/100, Average Attack Power: 20, Mana: 100
- -> 2's Stats - Health: 100/100, Average Attack Power: 20, Mana: 100
-ERROR: Invalid input. Please choose another action to take.
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 150 to 126.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 131
- -> The Dark Wizard attacks 2 for 14 damage! 2's health went from 100 to 86.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 86/100, Average Attack Power: 20, Mana: 100
- -> 2's Stats - Health: 86/100, Average Attack Power: 20, Mana: 100
- -> 2's Stats - Health: 86/100, Average Attack Power: 20, Mana: 100
- -> 2 attacks The Dark Wizard for 23 damage! The Dark Wizard's health went from 131 to 108.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 113
- -> The Dark Wizard attacks 2 for 14 damage! 2's health went from 86 to 72.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 82
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard healed 5 points! Health = 118
+ -> The Dark Wizard healed 5 points! Health = 100
  -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 150.
 
 ------ Your Turn ------
+ -> 3's Mana replenished by 5. Mana = 95
 
 Actions:
 1. Attack
 2. Use Special Ability
 3. Heal
 4. View Stats
-
-Special Abilities: (Available Mana = 100)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 82/100, Average Attack Power: 20, Mana: 100
- -> 2 attacks The Dark Wizard for 19 damage! The Dark Wizard's health went from 150 to 131.
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 25
- -> The Dark Wizard healed 5 points! Health = 136
- -> The Dark Wizard attacks 2 for 15 damage! 2's health went from 82 to 67.
-
------- Your Turn ------
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2's Stats - Health: 67/100, Average Attack Power: 20, Mana: 100
- -> 2's Stats - Health: 67/100, Average Attack Power: 20, Mana: 100
-
-Special Abilities: (Available Mana = 100)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
- -> 2 found a box to hide in!
-
------- The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 40
- -> The Dark Wizard healed 5 points! Health = 141
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attempts to attack, but 2 evades the attack!
-
------- Your Turn ------
- -> 2's Mana replenished by 5. Mana = 75
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 healed 10 points! Health = 77
+ -> 3 healed 10 points! Health = 88
 
 ------ The Dark Wizard Turn ------
  -> The Dark Wizard's Mana replenished by 15. Mana = 20
- -> The Dark Wizard healed 5 points! Health = 146
- -> The Dark Wizard attacks 2 for 16 damage! 2's health went from 77 to 61.
+ -> The Dark Wizard healed 0 points! Health = 150
+ -> The Dark Wizard attacks 3 for 17 damage! 3's health went from 88 to 71.
 
 ------ Your Turn ------
- -> 2's Mana replenished by 5. Mana = 80
+ -> 3's Mana replenished to max. Mana = 100
 
 Actions:
 1. Attack
 2. Use Special Ability
 3. Heal
 4. View Stats
- -> 2 attacks The Dark Wizard for 23 damage! The Dark Wizard's health went from 146 to 123.
+ -> 3 attacks The Dark Wizard for 29 damage! The Dark Wizard's health went from 150 to 121.
 
 ------ The Dark Wizard Turn ------
  -> The Dark Wizard's Mana replenished by 15. Mana = 35
- -> The Dark Wizard healed 5 points! Health = 128
- -> The Dark Wizard attacks 2 for 10 damage! 2's health went from 61 to 51.
+ -> The Dark Wizard healed 5 points! Health = 126
+ -> The Dark Wizard attacks 3 for 14 damage! 3's health went from 71 to 57.
 
 ------ Your Turn ------
- -> 2's Mana replenished by 5. Mana = 85
 
 Actions:
 1. Attack
 2. Use Special Ability
 3. Heal
 4. View Stats
- -> 2 attacks The Dark Wizard for 24 damage! The Dark Wizard's health went from 128 to 104.
+ -> 3's Stats - Health: 57/140, Average Attack Power: 30, Mana: 100
+
+Special Abilities: (Available Mana = 100)
+1. Gym Rat (attack buff +20%) Cost 20 Mana
+2. Enraged (double attack) Cost 30 Mana
+3. Back
+ -> Blinded by rage, 3 inflicts double damage!
+ -> 3 attacks The Dark Wizard for 60 damage! The Dark Wizard's health went from 126 to 66.
 
 ------ The Dark Wizard Turn ------
  -> The Dark Wizard's Mana replenished to max. Mana = 50
- -> The Dark Wizard healed 5 points! Health = 109
- -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
- -> The Dark Wizard attacks 2 for 45 damage! 2's health went from 51 to 6.
+ -> The Dark Wizard healed 5 points! Health = 71
+ -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 121.
 
 ------ Your Turn ------
- -> 2's Mana replenished by 5. Mana = 90
+ -> 3's Mana replenished by 5. Mana = 75
 
 Actions:
 1. Attack
 2. Use Special Ability
 3. Heal
 4. View Stats
- -> 2's Stats - Health: 6/100, Average Attack Power: 20, Mana: 90
-
-Special Abilities: (Available Mana = 90)
-1. Quick Shot (double attack) Cost 30 Mana
-2. Evade (evade next attack) Cost 30 Mana
-3. Back
-
-Actions:
-1. Attack
-2. Use Special Ability
-3. Heal
-4. View Stats
- -> 2 attacks The Dark Wizard for 16 damage! The Dark Wizard's health went from 109 to 93.
+ -> 3 healed 10 points! Health = 67
 
 ------ The Dark Wizard Turn ------
- -> The Dark Wizard's Mana replenished by 15. Mana = 30
- -> The Dark Wizard healed 5 points! Health = 98
- -> The Dark Wizard attacks 2 for 11 damage! 2's health went from 6 to 0.
+ -> The Dark Wizard's Mana replenished by 15. Mana = 25
+ -> The Dark Wizard healed 5 points! Health = 126
+ -> The Dark Wizard attacks 3 for 14 damage! 3's health went from 67 to 53.
+
+------ Your Turn ------
+ -> 3's Mana replenished by 5. Mana = 80
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+ -> 3 attacks The Dark Wizard for 26 damage! The Dark Wizard's health went from 126 to 100.
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished by 15. Mana = 40
+ -> The Dark Wizard healed 5 points! Health = 105
+ -> The Dark Wizard used a special ability, increasing its Mana significantly (+30 max increase up to its max Mana). Mana = 10.
+
+------ Your Turn ------
+ -> 3's Mana replenished by 5. Mana = 85
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+ -> 3 healed 10 points! Health = 63
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished by 15. Mana = 25
+ -> The Dark Wizard healed 5 points! Health = 110
+ -> The Dark Wizard attacks 3 for 19 damage! 3's health went from 63 to 44.
+
+------ Your Turn ------
+ -> 3's Mana replenished by 5. Mana = 90
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+ -> 3's Stats - Health: 44/140, Average Attack Power: 30, Mana: 90
+ -> 3's Stats - Health: 44/140, Average Attack Power: 30, Mana: 90
+ -> 3 healed 10 points! Health = 54
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished by 15. Mana = 40
+ -> The Dark Wizard healed 5 points! Health = 115
+ -> The Dark Wizard attacks 3 for 18 damage! 3's health went from 54 to 36.
+
+------ Your Turn ------
+ -> 3's Mana replenished by 5. Mana = 95
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+ -> 3 healed 10 points! Health = 46
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished to max. Mana = 50
+ -> The Dark Wizard healed 5 points! Health = 120
+ -> The Dark Wizard used a special ability, increasing its health significantly (+50 max increase up to its max health). Health = 150.
+
+------ Your Turn ------
+ -> 3's Mana replenished to max. Mana = 100
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+ -> 3 attacks The Dark Wizard for 28 damage! The Dark Wizard's health went from 150 to 122.
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished by 15. Mana = 25
+ -> The Dark Wizard healed 5 points! Health = 127
+ -> The Dark Wizard attack missed!
+
+------ Your Turn ------
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+ -> 3 attacks The Dark Wizard for 25 damage! The Dark Wizard's health went from 127 to 102.
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished by 15. Mana = 40
+ -> The Dark Wizard healed 5 points! Health = 107
+ -> The Dark Wizard attacks 3 for 16 damage! 3's health went from 46 to 30.
+
+------ Your Turn ------
+
+Actions:
+1. Attack
+2. Use Special Ability
+3. Heal
+4. View Stats
+
+Special Abilities: (Available Mana = 100)
+1. Gym Rat (attack buff +20%) Cost 20 Mana
+2. Enraged (double attack) Cost 30 Mana
+3. Back
+ -> Not enough mana or invalid input. Please try again.
+ -> After an extensive gym session, 3 is now extra buff, increasing the average attack power to 36!
+
+------ The Dark Wizard Turn ------
+ -> The Dark Wizard's Mana replenished to max. Mana = 50
+ -> The Dark Wizard healed 5 points! Health = 112
+ -> The Dark Wizard used a special ability and recruited some minions for a triple attack!
+ -> The Dark Wizard attacks 3 for 45 damage! 3's health went from 30 to 0.
 
 <-------End Battle------->
-2 has been defeated. Better luck next time!
+3 has been defeated. Better luck next time!
 
