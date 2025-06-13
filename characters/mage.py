@@ -1,4 +1,4 @@
-from character import Character
+from characters.character import Character
 
 # Mage class (inherits from Character)
 class Mage(Character):

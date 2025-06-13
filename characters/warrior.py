@@ -1,4 +1,4 @@
-from character import Character
+from characters.character import Character
 
 # Warrior class (inherits from Character)
 class Warrior(Character):

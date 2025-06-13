@@ -1,4 +1,4 @@
-from character import Character
+from characters.character import Character
 
 # EvilWizard class (inherits from Character)
 class EvilWizard(Character):

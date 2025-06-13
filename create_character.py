@@ -1,7 +1,7 @@
-from warrior import Warrior
-from mage import Mage
-from archer import Archer
-from paladin import Paladin
+from characters.warrior import Warrior
+from characters.mage import Mage
+from characters.archer import Archer
+from characters.paladin import Paladin
 from welcome import welcome
 
 # Function to create a character of the user's choosing

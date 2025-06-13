@@ -1,5 +1,5 @@
 import random
-from evil_wizard import EvilWizard
+from characters.evil_wizard import EvilWizard
 from create_character import create_character
 from display_player_action_menu import display_player_action_menu
 

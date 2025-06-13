@@ -1,21 +1,21 @@
-from character import Character
+from characters.character import Character
 
-# Paladin class (inherits from Character)
-class Paladin(Character):
+# Archer class (inherits from Character)
+class Archer(Character):
     special_abilities = {
         '1': {
-            'ability_name': "Holy Strike (attack buff +20%)",
-            'mana_cost': 20
+            'ability_name': "Quick Shot (double attack)",
+            'mana_cost': 30
         },
         '2': {
-            'ability_name': "Divine Mana (mana recovery rate +5 mana/round)",
-            'mana_cost': 15
+            'ability_name': "Evade (evade next attack)",
+            'mana_cost': 30
         }
     }
     
     def __init__(self,name):
-        super().__init__(name, health=130, attack_power=30)
-        
+        super().__init__(name, health=100, attack_power=20)
+    
     def special_ability(self, opponent):
         # Used to check which abilities can be executed based on the amount of mana available
         ability_choices = []
@@ -27,14 +27,15 @@ class Paladin(Character):
             ability = input("\nSelect a special ability: #").strip()
 
             if ability == "1" and ability in ability_choices:
-                self.attack_power = round(self.attack_power * 1.2)
+                current_attack = self.attack_power * 2
+                print(f" -> With a sudden burst of energy, {self.name} inflicts double damage!")
                 self.mana -= self.special_abilities['1']['mana_cost']
-                print(f" -> Buff activated! Average attack power is now {self.attack_power}.")
+                self.attack(opponent,current_attack)
                 break
             elif ability == "2" and ability in ability_choices:
-                self.mana_recovery_rate += 5
+                opponent.temp_attack_power = 0
                 self.mana -= self.special_abilities['2']['mana_cost']
-                print(f" -> {self.name} found a bottle of cloudy, thick blue-green liquid in the corner and decided to take a sip. Feeling extra energized, {self.name}'s Mana recovery rate is now {self.mana_recovery_rate}.")
+                print(f" -> {self.name} found a box to hide in!")
                 break
             elif ability == "3":
                 return "Back"
