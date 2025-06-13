@@ -1,7 +1,7 @@
 import random
 from characters.evil_wizard import EvilWizard
-from create_character import create_character
-from display_player_action_menu import display_player_action_menu
+from display_messages.create_character import create_character
+from display_messages.display_player_action_menu import display_player_action_menu
 
 # Battle continues until one party is defeated (Health = 0)
 def battle(player, wizard):

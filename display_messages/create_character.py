@@ -2,7 +2,7 @@ from characters.warrior import Warrior
 from characters.mage import Mage
 from characters.archer import Archer
 from characters.paladin import Paladin
-from welcome import welcome
+from display_messages.welcome import welcome
 
 # Function to create a character of the user's choosing
 def create_character():
